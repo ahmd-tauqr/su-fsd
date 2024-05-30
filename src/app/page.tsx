@@ -1,8 +1,9 @@
-export default function Home() {
-  // parse the file list from csv
-  // render a list
-  // implement sort methods
-  // render sorted list
+import ItemList from '@/components/ItemList';
 
-  return <div>File Sorting page</div>;
+export default function Home() {
+  return (
+    <div>
+      <ItemList />
+    </div>
+  );
 }
