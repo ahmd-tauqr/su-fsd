@@ -9,11 +9,6 @@ This is a Next.js application that reads a list of items from an external CSV fi
 - Robust error handling to manage file read and parsing errors.
 - Responsive UI with a simple and clean design.
 
-## Requirements
-
-The project requirements are detailed in the following document:
-[Project Requirements](https://docs.google.com/document/d/1HTUDCpUtH1W5X4Hkp6YIT7pzfeIzvX6lIuswB5WPkpQ/edit)
-
 ## Getting Started
 
 ### Prerequisites
